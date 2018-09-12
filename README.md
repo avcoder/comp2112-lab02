@@ -32,7 +32,7 @@ let moreHeroes = [
 * use the audio API https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement
 * 1 Bonus mark if you implement the new ES6 generator https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*#Examples
 
-Your lab2 should look like this: https://youtu.be/D2N8d7NUF5k 
+Your lab2 should look/sound like this: https://youtu.be/D2N8d7NUF5k 
 
 ### Submit in Blackboard:
 * Github link to your README.md file

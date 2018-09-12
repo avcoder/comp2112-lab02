@@ -43,7 +43,7 @@ Your lab2 should look/sound like this: https://youtu.be/D2N8d7NUF5k
 * Display a screenshot of your modified 'Chapters' navigation menu using the proper Markdown format for images
 * Ask me 1 or more question(s) you're still confused/wondering about regarding JavaScript so far using proper Markdown format for lists
 * Upload your work to Azure (or elsewhere, NOT codepen)
-* copy/paste the hosted url above using the proper Markdown format for links
+  * copy/paste the hosted url above using the proper Markdown format for links
 
 ### Submit in Blackboard
 * Your Github link to the above README.md file

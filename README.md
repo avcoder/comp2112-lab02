@@ -30,6 +30,6 @@ let moreHeroes = [
 * Insert a button that will add an additional hero to the view; give a console warning if no more heroes.
 * Make the 'Follow' button change to 'Following'upon being clicked, and vice versa; give console messages per click.
 * play with the audio API
-
+* 1 Bonus mark if you implement the new ES6 generator https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*
 
 Your lab2 should look like this: https://youtu.be/D2N8d7NUF5k 

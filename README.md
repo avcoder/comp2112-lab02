@@ -35,13 +35,15 @@ const moreHeroes = [
 
 Your lab2 should look/sound like this: https://youtu.be/D2N8d7NUF5k 
 
-### Submit:
+### To do:
 * Create a README.md text file that uses markdown format https://guides.github.com/features/mastering-markdown/
 * Display your JS code using the proper Markdown format
 * Display a screenshot of your modified 'Chapters' navigation menu using the proper Markdown format
 * Ask me 1 or more question(s) you're still confused/wondering about regarding JavaScript so far using proper Markdown format
 * Upload your work to Azure (or elsewhere) and show that link using the proper Markdown format
-* SUBMIT IN BLACKBOARD: Github link to the above README.md file
+
+### Submit in Blackboard
+* Your Github link to the above README.md file
 
 
 

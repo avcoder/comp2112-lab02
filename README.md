@@ -33,3 +33,7 @@ let moreHeroes = [
 * 1 Bonus mark if you implement the new ES6 generator https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*#Examples
 
 Your lab2 should look like this: https://youtu.be/D2N8d7NUF5k 
+
+### Submit:
+* Github link to your README.md file
+* Submit your hosted url (i.e. upload your work to Azure or elsewhere and give me that link)

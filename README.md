@@ -36,17 +36,13 @@ const moreHeroes = [
 Your lab2 should look/sound like this: https://youtu.be/D2N8d7NUF5k 
 
 ### To do (after you've coded the solution above):
-* Create a private repository
+* Upload your work to a new Private Github repository
 * Invite me as a collaborator so I can see your repo
-* Create a README.md text file that uses markdown format https://guides.github.com/features/mastering-markdown/
-* Display your JS code using the proper Markdown format for code.
-* Display a screenshot of your modified 'Chapters' navigation menu using the proper Markdown format for images
-* Ask me 1 or more question(s) you're still confused/wondering about regarding JavaScript so far using proper Markdown format for lists
 * Upload your work to Azure (or elsewhere, NOT codepen)
-  * copy/paste the hosted url above using the proper Markdown format for links
 
 ### Submit in Blackboard
-* Your Github link to the above README.md file
+* Your Github link to the above README.md file (ensure you've invited me as a collaborator)
+* A hosted url
 
 
 

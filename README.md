@@ -42,7 +42,7 @@ Your lab2 should look/sound like this: https://youtu.be/D2N8d7NUF5k
 
 ### Submit in Blackboard
 * Your Github link to the above README.md file (ensure you've invited me as a collaborator)
-* A hosted url
+* A hosted Azure (or other) url
 
 
 

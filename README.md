@@ -36,6 +36,8 @@ const moreHeroes = [
 Your lab2 should look/sound like this: https://youtu.be/D2N8d7NUF5k 
 
 ### To do (after you've coded the solution above):
+* Create a private repository
+* Invite me as a collaborator so I can see your repo
 * Create a README.md text file that uses markdown format https://guides.github.com/features/mastering-markdown/
 * Display your JS code using the proper Markdown format for code.
 * Display a screenshot of your modified 'Chapters' navigation menu using the proper Markdown format for images

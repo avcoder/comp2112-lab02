@@ -37,3 +37,4 @@ Your lab2 should look like this: https://youtu.be/D2N8d7NUF5k
 ### Submit in Blackboard:
 * Github link to your README.md file
 * Submit your hosted url (i.e. upload your work to Azure or elsewhere and give me that link)
+* Ask me 1 question you're still confused/wondering about regarding JavaScript so far.
